@@ -1,4 +1,5 @@
 <html>
+<h1>Жуйков Александр - Татой ( Шататой - Syrius )</h1>
 <ul><strong>Сделать нейросеть в 1.5 раза меньше - 1 000$</strong><strong></strong></ul>
 <ul></ul>
 <ul><strong>Поднять Test set accuracy:</strong><br></ul>
