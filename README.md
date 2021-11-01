@@ -1,5 +1,5 @@
 <html>
-<h1>Сделать нейронную сеть</h1>
+<h1>Создать нейронную сеть</h1>
 
 <h2>Сделать нейросеть до 9 раз меньше</h2>
 <ul><strong>Сделать нейросеть в 1.5 раза меньше - 1 000$</strong><strong></strong></ul>
@@ -23,7 +23,6 @@
 <br>count_params 148645
 <br>evaluate loss 0.3729 - evaluate accuracy 0.88
 <br>Test set accuracy 84.62%<figure><img src="https://habrastorage.org/getpro/moikrug/uploads/redactor_image/10042021/images/0d7a4a95526f6554c3c5ce06ba89d7c0.png" data-image="esjbpdukezjp"></figure>
-
 
 
 <br><strong>Модель 2</strong>
@@ -117,8 +116,6 @@
 <br>• Опыт предсказания курсов валют, акций, криптовалют.  Корреляции. 
 <br>• Успешный маркетмейкер - программист ( в % - сверх-прибыль, роботы и нейросети для безрисковой торговли).
 
-
-
 <br>Создание / Программирование:
 <br>• Google Colaboratory, Jupyter Notebook и редакторы кода для PC
 <br>• сайты, магазины, роботы, сервисы, управление интернет-проектами.
@@ -171,28 +168,11 @@
 <p><a href="https://kurs-dollara.net/hh/hh1.php" rel="nofollow">https://kurs-dollara.net/hh/hh1.php<br></a>(кликайте
 на изображение)</p>
 <p>Сайты - работа или основание, 2016г </p>
-<ul><a href="http://unsupervise.ru/" rel="nofollow">http://unsupervise.ru/</a>
-<br><a href="https://kurs-dollara.net/" rel="nofollow">https://kurs-dollara.net/</a> Писал для себя с 2011г. автоматический, самогенерация, самописный (полигон для экспериментов) пригодилось для идей роботов-ИИ.
-<br><a href="http://darneo.net/" rel="nofollow">http://darneo.net/</a> Битрикс
-<br><a href="http://terrasnaya-doska.com/" rel="nofollow">http://terrasnaya-doska.com/</a>
- Опенкарт и сайтов 20 еще...
-<br><a href="http://www.europa-exclusive.com/" rel="nofollow">http://www.europa-exclusive.com/</a> - основатель первого сайта, 2002г
-<br><a href="https://milato.ru/" rel="nofollow">https://milato.ru/</a> - 2018, пока он был в Москве </ul>
+
 <ul>Позитивный, дружественный в коллективе, энтузиаст.
 <br> тел: 8919990159два, +796219двa323шeсть, +792066тpи788двa 
 <br>WhatsApp +7926931932два 
 <br>Telegram @shatatoy или +7926931932два</ul>
-<ul>Лучше, если Вы начинаете с "Вы приглашены и утверждены на должность..."
-<em><br></em></ul>
-<ul><strong>
-делать ии - это не шуточное занятие</strong> для мозгов, Ваш звонок должен быть конструктивным, не спамом. Проще говоря - <strong>на работу</strong> сразу.</ul>
-<ul>
 
-Это запрос на одну из самых высоких должностей в департаменте (Генеральный директор, Главный конструктор). <br>Внимание: 
- <li>У   меня нет высшего официального образования. </li>
- <li>Нет   опыта работы в должности крупного руководителя. </li>
- <li>Мне   50 лет. </li>
- <li>Место проживания до входа в должность - Смоленск. После возможно - 15 минут   от места работы.</li></ul>
-<p>... и тем не менее.</p>
 
 </html>
